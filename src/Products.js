@@ -1,11 +1,11 @@
-import product1 from "./assets/iphone.jpeg"
-import product2 from "./assets/macbook.jpeg"
-import product3 from "./assets/canon.webp"
-import product4 from "./assets/tv.jpeg"
-import product5 from "./assets/vr.webp"
+import product1 from "./assets/iphone.jpg"
+import product2 from "./assets/macbookpro.jpg"
+import product3 from "./assets/canon.jpg"
+import product4 from "./assets/tv.jpg"
+import product5 from "./assets/vr.jpg"
 import product6 from "./assets/earpods.jpg"
-import product7 from "./assets/Headphones.webp"
-import product8 from "./assets/watch.webp"
+import product7 from "./assets/headphones.jpg"
+import product8 from "./assets/watch.jpg"
 
 
 
